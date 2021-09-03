@@ -1,1 +1,1 @@
-# deep-learning-1
+# Amazing Bear Classifier using Convolutional Neural Network
